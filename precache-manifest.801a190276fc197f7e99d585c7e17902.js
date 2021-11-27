@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d717b5939b90e8ee824a0b2133902bc3",
+    "revision": "0a796900561df9b9db2366530e2e3320",
     "url": "https://mukundakamatham.github.io/csb-wxpur/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://mukundakamatham.github.io/csb-wxpur/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "364f1d055c00e96f34a8",
-    "url": "https://mukundakamatham.github.io/csb-wxpur/static/css/main.2a3ffa7a.chunk.css"
+    "revision": "540f900856ca645ff08c",
+    "url": "https://mukundakamatham.github.io/csb-wxpur/static/css/main.827c7d86.chunk.css"
   },
   {
     "revision": "bb3ce0241fa82d23f775",
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://mukundakamatham.github.io/csb-wxpur/static/js/4.4b7a9cd9.chunk.js"
   },
   {
-    "revision": "364f1d055c00e96f34a8",
-    "url": "https://mukundakamatham.github.io/csb-wxpur/static/js/main.8a1bf544.chunk.js"
+    "revision": "540f900856ca645ff08c",
+    "url": "https://mukundakamatham.github.io/csb-wxpur/static/js/main.e3db334f.chunk.js"
   },
   {
     "revision": "466aa85d5362f35724f3",
@@ -48,12 +48,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://mukundakamatham.github.io/csb-wxpur/static/media/Agustina.21f233e1.woff"
   },
   {
-    "revision": "73a7d9d8113451dfcdfb6d828f50ad27",
-    "url": "https://mukundakamatham.github.io/csb-wxpur/static/media/CIRCLE1.73a7d9d8.png"
+    "revision": "fc42597782fce76f359439077ec9b1f2",
+    "url": "https://mukundakamatham.github.io/csb-wxpur/static/media/CIRCLE1.fc425977.png"
   },
   {
-    "revision": "fc14d53a1733af895fe6b9ae1f62ad0c",
-    "url": "https://mukundakamatham.github.io/csb-wxpur/static/media/CIRCLE2.fc14d53a.png"
+    "revision": "da3e26b0476898cdbc2538b957b1df84",
+    "url": "https://mukundakamatham.github.io/csb-wxpur/static/media/CIRCLE2.da3e26b0.png"
   },
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
@@ -76,8 +76,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://mukundakamatham.github.io/csb-wxpur/static/media/manOnTable.52be3144.svg"
   },
   {
-    "revision": "ccb25528b2a0436797a252c3ecd1c665",
-    "url": "https://mukundakamatham.github.io/csb-wxpur/static/media/python.ccb25528.jfif"
+    "revision": "db2a0b0b20bb01af79b9a7379eae40f3",
+    "url": "https://mukundakamatham.github.io/csb-wxpur/static/media/python.db2a0b0b.jpg"
   },
   {
     "revision": "4b2938b9f5ea2f1ddbd45dccaff628bc",
