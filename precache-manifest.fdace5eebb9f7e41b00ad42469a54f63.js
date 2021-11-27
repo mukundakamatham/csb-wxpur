@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f97654d66f45fc10d139a7238caa5e31",
+    "revision": "d717b5939b90e8ee824a0b2133902bc3",
     "url": "https://mukundakamatham.github.io/csb-wxpur/index.html"
   },
   {
@@ -12,16 +12,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://mukundakamatham.github.io/csb-wxpur/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "803b511a764993084257",
-    "url": "https://mukundakamatham.github.io/csb-wxpur/static/css/main.1aa2fabb.chunk.css"
+    "revision": "364f1d055c00e96f34a8",
+    "url": "https://mukundakamatham.github.io/csb-wxpur/static/css/main.2a3ffa7a.chunk.css"
   },
   {
-    "revision": "51c31101671d6df14159",
-    "url": "https://mukundakamatham.github.io/csb-wxpur/static/js/2.5428a9c9.chunk.js"
+    "revision": "bb3ce0241fa82d23f775",
+    "url": "https://mukundakamatham.github.io/csb-wxpur/static/js/2.22839767.chunk.js"
   },
   {
     "revision": "408f8ade359af8695a328ed937291fdf",
-    "url": "https://mukundakamatham.github.io/csb-wxpur/static/js/2.5428a9c9.chunk.js.LICENSE.txt"
+    "url": "https://mukundakamatham.github.io/csb-wxpur/static/js/2.22839767.chunk.js.LICENSE.txt"
   },
   {
     "revision": "801f433d36a35d32f2b5",
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://mukundakamatham.github.io/csb-wxpur/static/js/4.4b7a9cd9.chunk.js"
   },
   {
-    "revision": "803b511a764993084257",
-    "url": "https://mukundakamatham.github.io/csb-wxpur/static/js/main.6142aaed.chunk.js"
+    "revision": "364f1d055c00e96f34a8",
+    "url": "https://mukundakamatham.github.io/csb-wxpur/static/js/main.8a1bf544.chunk.js"
   },
   {
     "revision": "466aa85d5362f35724f3",
@@ -48,16 +48,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://mukundakamatham.github.io/csb-wxpur/static/media/Agustina.21f233e1.woff"
   },
   {
+    "revision": "73a7d9d8113451dfcdfb6d828f50ad27",
+    "url": "https://mukundakamatham.github.io/csb-wxpur/static/media/CIRCLE1.73a7d9d8.png"
+  },
+  {
+    "revision": "fc14d53a1733af895fe6b9ae1f62ad0c",
+    "url": "https://mukundakamatham.github.io/csb-wxpur/static/media/CIRCLE2.fc14d53a.png"
+  },
+  {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "https://mukundakamatham.github.io/csb-wxpur/static/media/Montserrat-Regular.ee653992.ttf"
   },
   {
     "revision": "c59720d63dc3595a12e1c7e641a1bfa5",
     "url": "https://mukundakamatham.github.io/csb-wxpur/static/media/airbnbLogo.c59720d6.png"
-  },
-  {
-    "revision": "51cf7192327488da3d2a171280680c16",
-    "url": "https://mukundakamatham.github.io/csb-wxpur/static/media/contactMailDark.51cf7192.svg"
   },
   {
     "revision": "59389695208d7454c6607bed51ed4316",

@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "https://mukundakamatham.github.io/csb-wxpur/static/css/main.1aa2fabb.chunk.css",
-    "main.js": "https://mukundakamatham.github.io/csb-wxpur/static/js/main.6142aaed.chunk.js",
-    "main.js.map": "https://mukundakamatham.github.io/csb-wxpur/static/js/main.6142aaed.chunk.js.map",
+    "main.css": "https://mukundakamatham.github.io/csb-wxpur/static/css/main.2a3ffa7a.chunk.css",
+    "main.js": "https://mukundakamatham.github.io/csb-wxpur/static/js/main.8a1bf544.chunk.js",
+    "main.js.map": "https://mukundakamatham.github.io/csb-wxpur/static/js/main.8a1bf544.chunk.js.map",
     "runtime-main.js": "https://mukundakamatham.github.io/csb-wxpur/static/js/runtime-main.0b4406e9.js",
     "runtime-main.js.map": "https://mukundakamatham.github.io/csb-wxpur/static/js/runtime-main.0b4406e9.js.map",
-    "static/js/2.5428a9c9.chunk.js": "https://mukundakamatham.github.io/csb-wxpur/static/js/2.5428a9c9.chunk.js",
-    "static/js/2.5428a9c9.chunk.js.map": "https://mukundakamatham.github.io/csb-wxpur/static/js/2.5428a9c9.chunk.js.map",
+    "static/js/2.22839767.chunk.js": "https://mukundakamatham.github.io/csb-wxpur/static/js/2.22839767.chunk.js",
+    "static/js/2.22839767.chunk.js.map": "https://mukundakamatham.github.io/csb-wxpur/static/js/2.22839767.chunk.js.map",
     "static/css/3.df879eac.chunk.css": "https://mukundakamatham.github.io/csb-wxpur/static/css/3.df879eac.chunk.css",
     "static/js/3.d5369665.chunk.js": "https://mukundakamatham.github.io/csb-wxpur/static/js/3.d5369665.chunk.js",
     "static/js/3.d5369665.chunk.js.map": "https://mukundakamatham.github.io/csb-wxpur/static/js/3.d5369665.chunk.js.map",
@@ -14,16 +14,17 @@
     "static/js/4.4b7a9cd9.chunk.js": "https://mukundakamatham.github.io/csb-wxpur/static/js/4.4b7a9cd9.chunk.js",
     "static/js/4.4b7a9cd9.chunk.js.map": "https://mukundakamatham.github.io/csb-wxpur/static/js/4.4b7a9cd9.chunk.js.map",
     "index.html": "https://mukundakamatham.github.io/csb-wxpur/index.html",
-    "precache-manifest.e7a78791f2d0a9c3850c3d895216aa7c.js": "https://mukundakamatham.github.io/csb-wxpur/precache-manifest.e7a78791f2d0a9c3850c3d895216aa7c.js",
+    "precache-manifest.fdace5eebb9f7e41b00ad42469a54f63.js": "https://mukundakamatham.github.io/csb-wxpur/precache-manifest.fdace5eebb9f7e41b00ad42469a54f63.js",
     "service-worker.js": "https://mukundakamatham.github.io/csb-wxpur/service-worker.js",
     "static/css/3.df879eac.chunk.css.map": "https://mukundakamatham.github.io/csb-wxpur/static/css/3.df879eac.chunk.css.map",
     "static/css/4.e91a4b36.chunk.css.map": "https://mukundakamatham.github.io/csb-wxpur/static/css/4.e91a4b36.chunk.css.map",
-    "static/css/main.1aa2fabb.chunk.css.map": "https://mukundakamatham.github.io/csb-wxpur/static/css/main.1aa2fabb.chunk.css.map",
-    "static/js/2.5428a9c9.chunk.js.LICENSE.txt": "https://mukundakamatham.github.io/csb-wxpur/static/js/2.5428a9c9.chunk.js.LICENSE.txt",
+    "static/css/main.2a3ffa7a.chunk.css.map": "https://mukundakamatham.github.io/csb-wxpur/static/css/main.2a3ffa7a.chunk.css.map",
+    "static/js/2.22839767.chunk.js.LICENSE.txt": "https://mukundakamatham.github.io/csb-wxpur/static/js/2.22839767.chunk.js.LICENSE.txt",
     "static/media/AMCCOLLEGELOGO.png": "https://mukundakamatham.github.io/csb-wxpur/static/media/AMCCOLLEGELOGO.a675daac.png",
     "static/media/index.css": "https://mukundakamatham.github.io/csb-wxpur/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/CIRCLE1.png": "https://mukundakamatham.github.io/csb-wxpur/static/media/CIRCLE1.73a7d9d8.png",
+    "static/media/CIRCLE2.png": "https://mukundakamatham.github.io/csb-wxpur/static/media/CIRCLE2.fc14d53a.png",
     "static/media/airbnbLogo.png": "https://mukundakamatham.github.io/csb-wxpur/static/media/airbnbLogo.c59720d6.png",
-    "static/media/contactMailDark.svg": "https://mukundakamatham.github.io/csb-wxpur/static/media/contactMailDark.51cf7192.svg",
     "static/media/developerActivity.svg": "https://mukundakamatham.github.io/csb-wxpur/static/media/developerActivity.59389695.svg",
     "static/media/facebookLogo.png": "https://mukundakamatham.github.io/csb-wxpur/static/media/facebookLogo.8ddf76a1.png",
     "static/media/manOnTable.svg": "https://mukundakamatham.github.io/csb-wxpur/static/media/manOnTable.52be3144.svg",
@@ -36,8 +37,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.0b4406e9.js",
-    "static/js/2.5428a9c9.chunk.js",
-    "static/css/main.1aa2fabb.chunk.css",
-    "static/js/main.6142aaed.chunk.js"
+    "static/js/2.22839767.chunk.js",
+    "static/css/main.2a3ffa7a.chunk.css",
+    "static/js/main.8a1bf544.chunk.js"
   ]
 }
